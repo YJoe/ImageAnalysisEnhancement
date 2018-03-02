@@ -30,4 +30,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="data\PandaOriginal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="data\PandaNoise.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

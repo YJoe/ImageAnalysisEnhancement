@@ -1,3 +1,14 @@
 ﻿  ImageAnalysisEnhancement.cpp
-c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(97): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(107): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(420): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(440): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(460): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(589): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(598): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(609): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(621): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(622): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(635): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(636): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joe\source\repos\imageanalysisenhancement\imageanalysisenhancement\imageanalysisenhancement.cpp(637): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   ImageAnalysisEnhancement.vcxproj -> C:\Users\Joe\source\repos\ImageAnalysisEnhancement\x64\Debug\ImageAnalysisEnhancement.exe
